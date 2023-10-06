@@ -1,5 +1,7 @@
 # Full Stack Developer - Test Assignment
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5859dd0d-f29c-4933-98ef-af310699acf1/deploy-status)](https://app.netlify.com/sites/clarifion-upsell/deploys)
+
 ## Table of contents
 
 - [Overview](#overview)
